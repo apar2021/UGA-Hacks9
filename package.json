@@ -1,17 +1,5 @@
 {
-  "name": "curly-haze-1bfe",
-  "version": "0.0.0",
-  "private": true,
-  "scripts": {
-    "deploy": "wrangler deploy",
-    "dev": "wrangler dev",
-    "start": "wrangler dev"
-  },
-  "devDependencies": {
-    "wrangler": "^3.0.0"
-  },
   "dependencies": {
-    "@cloudflare/ai": "^1.0.50",
-    "hono": "^4.0.0"
+    "@cloudflare/ai": "^1.0.50"
   }
 }
