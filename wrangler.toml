@@ -1,0 +1,10 @@
+name = "curly-haze-1bfe"
+main = "src/index.js"
+compatibility_date = "2024-02-08"
+
+[ai]
+binding = "AI"
+[[d1_databases]]
+binding = "DB" # i.e. available in your Worker on env.DB
+database_name = "rag-example"
+database_id = "857f4d35-8673-4a1e-ac30-6a8081e00bf6"
